@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report
+            id="report_mrporderGBR"
+            string="Orden de fabricación GBR"
+            model="mrp.production"
+            report_type="qweb-pdf"
+            file="mrp_extrareports.report_mrporderGBR"
+            name="mrp_extrareports.report_mrporderGBR"
+        />
+    </data>
+</openerp>
